@@ -1,0 +1,7 @@
+hotel=trivago 
+jw marriot
+taj hotel
+leela palace
+hotel fairmount
+le meridian
+
